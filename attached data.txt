@@ -1,0 +1,1 @@
+<http://www.Department1.University1.edu>  <http://www.Department1.University1.edu/hasPublication> <http://www.Department1.University1.edu/AssociateProfessor13/Publication2> .
